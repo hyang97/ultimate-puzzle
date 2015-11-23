@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=top\ right\ bottom\ left\ pieceNumber
+comment0.target=Piece(char,\ char,\ char,\ char,\ int)
+comment0.text=This\ is\ the\ constructor.\ Top,\ right,\ bottom,\ left,\ all\ represent\n\ the\ connector\ pieces.\ In\ order\ to\ keep\ things\ organized,\ the\n\ uppercase\ character\ means\ the\ outie,\ lowercase\ character\ means\n\ the\ innie.\n
+comment1.params=
+comment1.target=int\ getNumber()
+comment2.params=variant\ pen\ paper\ xPos\ yPos
+comment2.target=void\ drawPiece(int,\ gpdraw.DrawingTool,\ gpdraw.SketchPad,\ double,\ double)
+comment3.params=type\ pen\ paper
+comment3.target=void\ drawConnector(char,\ gpdraw.DrawingTool,\ gpdraw.SketchPad)
+comment4.params=variant
+comment4.target=char[][]\ getVariant(int)
+numComments=5

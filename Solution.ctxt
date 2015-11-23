@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=
+comment1.target=Solution()
+comment2.params=board\ position\ availablePieces\ solution
+comment2.target=void\ solve(char[][],\ int,\ java.util.ArrayList,\ int[][])
+comment3.params=piece\ pos\ inputBoard
+comment3.target=boolean\ fits(char[][],\ int,\ char[][])
+comment4.params=piece\ pos\ inputBoard
+comment4.target=char[][]\ fitPiece(char[][],\ int,\ char[][])
+comment5.params=solution\ solNum
+comment5.target=void\ printBoard(int[][],\ int)
+comment6.params=array
+comment6.target=void\ printArray(char[][])
+numComments=7
